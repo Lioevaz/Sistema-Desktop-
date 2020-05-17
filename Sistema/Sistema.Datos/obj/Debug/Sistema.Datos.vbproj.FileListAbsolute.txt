@@ -1,0 +1,14 @@
+C:\ProyectoVB\Sistema\Sistema.Datos\bin\Debug\Sistema.Datos.dll
+C:\ProyectoVB\Sistema\Sistema.Datos\bin\Debug\Sistema.Datos.pdb
+C:\ProyectoVB\Sistema\Sistema.Datos\bin\Debug\Sistema.Datos.xml
+C:\ProyectoVB\Sistema\Sistema.Datos\bin\Debug\Sistema.Entidades.dll
+C:\ProyectoVB\Sistema\Sistema.Datos\bin\Debug\Sistema.Entidades.pdb
+C:\ProyectoVB\Sistema\Sistema.Datos\bin\Debug\Sistema.Entidades.xml
+C:\ProyectoVB\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.vbprojAssemblyReference.cache
+C:\ProyectoVB\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.Resources.resources
+C:\ProyectoVB\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.vbproj.GenerateResource.cache
+C:\ProyectoVB\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.vbproj.CoreCompileInputs.cache
+C:\ProyectoVB\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.vbproj.CopyComplete
+C:\ProyectoVB\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.dll
+C:\ProyectoVB\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.xml
+C:\ProyectoVB\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.pdb
